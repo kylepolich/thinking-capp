@@ -37,7 +37,7 @@
 					}
 				},
 				"answers": [
-					{"element": "small intestines", "correct": "1"},
+					{"element": "Small Intestines", "correct": "1"},
 					{"element": "large intestines", "correct": "0"}
 				]
 			},
@@ -63,7 +63,7 @@
 				},
 				"answers": [
 					{"element": "large intestines", "correct": "1"},
-					{"element": "small intestines", "correct": "0"}
+					{"element": "Small Intestines", "correct": "0"}
 				]
 			},
 			{

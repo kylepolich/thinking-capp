@@ -1,17 +1,17 @@
 {
-		"Hypothalamus": {
-			"en": {
-				"text": "Hypothalamus",
-				"audio": "/audio/digestive/gall-blader-title.mp3"
-			}
-		},
-		"desc": {
-			"en": {
-				"text": "A part of the brain that lies beneath the thalamus, produces hormones which pass to the front part of the pituitary gland, and is important in regulating the activities of the autonomic nervous system.",
-				"audio": "/audio/digestive/gall-blader-desc.mp3"
-			}
-		},
-		"img": {
-			"file": "/images/endocrine/Hypothalamus.png"
+	"name": {
+		"en": {
+			"text": "Hypothalamus",
+			"audio": "/audio/digestive/gall-blader-title.mp3"
 		}
+	},
+	"desc": {
+		"en": {
+			"text": "A region of the forebrain below the thalamus that coordinates both the autonomic nervous system and the activity of the pituitary, controlling body temperature, thirst, hunger, and other homeostatic systems, and involved in sleep and emotional activity.",
+			"audio": "/audio/digestive/gall-blader-desc.mp3"
+		}
+	},
+	"img": {
+		"file": "/images/endocrine/Hypothalamus.png"
 	}
+}
